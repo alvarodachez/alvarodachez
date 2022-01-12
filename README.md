@@ -18,8 +18,22 @@
 </p>
 
 ### 📝 Actualmente estoy haciendo... 
-- Entorno de desarrollo basado en contenedores.
-- Portfolio website.
+-  <a href="https://www.docker.com/" title="Docker"><img src="src/docker.png" width="30px"/></a> Entorno de desarrollo basado en contenedores | Tecnologias | Ides | DevOps.
+- 🔨 Portfolio website | About me | Studies | Experience | Projects 
+
+### 🔧 Stack Tecnológico
+[![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)](https://www.oracle.com/java/technologies/downloads/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
+
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 <!--
 **alvarodachez/alvarodachez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
