@@ -34,6 +34,17 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+
+### 📹 Multimedia favorita
+<a href='#' target='_blank'>
+  <img align="center" width='30%' src='https://images7.alphacoders.com/550/thumb-1920-550739.jpg' alt='Interstellar' />
+</a>
+<a href='#' target='_blank'>
+  <img align="center" width='30%' src='https://www.nawpic.com/media/2020/peaky-blinders-nawpic-7.jpg' alt='peaky' />
+</a>
+<a href='#' target='_blank'>
+  <img align="center" width='30%' src='https://sm.ign.com/ign_es/screenshot/default/matrixi1_ygaf.jpg' alt='matrix' />
+</a>
 <!--
 **alvarodachez/alvarodachez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
