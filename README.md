@@ -1,12 +1,7 @@
-
-
-
-
-| <p align="center" width="400"> |                                                              |
-| ------------------------------ | ------------------------------------------------------------ |
-|                                | <img align="center" width="200" src="./src/profile-github.png" /> |
-|                                | <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>              |
-|                                | </p>                                                         |
+<p align="center" width="500">
+   <img align="center" width="200" src="./src/profile-github.png" />
+   <h3 align="center">¡Hey 👋! Soy alvarodachez 👨🏻‍💻</h3>
+</p>
 
 <!--
 **alvarodachez/alvarodachez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
