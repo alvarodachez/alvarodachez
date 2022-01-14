@@ -12,7 +12,7 @@
    <a href="https://www.linkedin.com/in/%C3%A1lvaro-rueda-s%C3%A1nchez-6812511a0" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin"/>
   </a>
-   <a href="mailto:alvaro.rueda.sanchez.corp@gmail.com" target="blank">
+   <a href="mailto:contact@alvarodachez.es" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
